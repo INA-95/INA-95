@@ -1,5 +1,5 @@
 
-### Hi there 👋
+### Hi, I'm IN-A 👋
 
 <img src="https://github.com/INA-95/INA-95/blob/main/git_hub_image.png?raw=true" alt="banner">
 
