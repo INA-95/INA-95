@@ -1,3 +1,6 @@
+<img src="https://github.com/INA-95/INA-95/blob/main/git_hub_image.png?raw=true" alt="banner">
+
+
 ### <div align="center">I'm IN-A, interning at Food & Tourism BigData Company 👨‍💻 working since 2021 🚀</div>  
   
 
@@ -14,7 +17,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="50%">
 
 
 
@@ -24,7 +27,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
 
 
@@ -32,10 +35,6 @@
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" />  
 </div>
-
-</td><td valign="top" width="33%">
-
-
 
 </td></tr></table>  
 
